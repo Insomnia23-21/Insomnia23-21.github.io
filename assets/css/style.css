@@ -1,0 +1,25 @@
+body{
+background: #000;
+}
+
+#Dm23-Selection {
+  background-image: url(../img/BG-Tech.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+#Dm23-Selection h1 {
+    color: #fd7e14;
+}
+
+#Portafolio {
+    background-color: #fd7e14;
+}
+
+.card .image-top {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
